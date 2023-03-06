@@ -1,4 +1,4 @@
-# CS415 (Computer Vision I) Final Project: From K-means to Deep Learning
+# CS415 (Computer Vision I) Final Project: From K-means to Deep Learning - Computer_vision_final.pdf explains everything in details
 ## Authors: Giuseppe Concialdi, Giuseppe Stracquadanio and Gaetano Coppoletta - University of Illinois Chicago 
 
 In this work we explored the task of Image Segmentation, conducting different
